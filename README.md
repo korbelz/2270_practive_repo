@@ -1,4 +1,4 @@
 # 2270_practive_repo
-gibberish /n
-even more gibberish /n
-emoji test /n
+gibberish <br>
+even more gibberish <br>
+emoji test <br>
